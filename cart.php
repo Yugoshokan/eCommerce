@@ -27,7 +27,7 @@
 <body>
 	<div id="header">
 		<img src="img/logo.jpg">
-		<label>alphaware</label>
+		<label>alphawares</label>
 			
 			<?php
 				$id = (int) $_SESSION['id'];
